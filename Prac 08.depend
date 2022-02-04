@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1493714419 source:f:\my class notes\class notes 01a\csc01a1 dcoulter\practicals\ngomseu-fotsing_h_217092052_csc_2017_p8\source\libgame.cpp
+	"LibGame.h"
+	<iostream>
+	<sstream>
+
+1493646950 f:\my class notes\class notes 01a\csc01a1 dcoulter\practicals\ngomseu-fotsing_h_217092052_csc_2017_p8\source\libgame.h
+	<cstdlib>
+	<string>
+
+1493719724 source:f:\my class notes\class notes 01a\csc01a1 dcoulter\practicals\ngomseu-fotsing_h_217092052_csc_2017_p8\source\main.cpp
+	<iostream>
+	<ctime>
+	"LibGame.h"
+
+1493710819 source:d:\my class notes\class notes 01a\csc01a1 dcoulter\practicals\ngomseu-fotsing_h_217092052_csc_2017_p8\source\libgame.cpp
+	"LibGame.h"
+	<iostream>
+	<sstream>
+
+1493643350 d:\my class notes\class notes 01a\csc01a1 dcoulter\practicals\ngomseu-fotsing_h_217092052_csc_2017_p8\source\libgame.h
+	<cstdlib>
+	<string>
+
+1493716124 source:d:\my class notes\class notes 01a\csc01a1 dcoulter\practicals\ngomseu-fotsing_h_217092052_csc_2017_p8\source\main.cpp
+	<iostream>
+	<ctime>
+	"LibGame.h"
+
